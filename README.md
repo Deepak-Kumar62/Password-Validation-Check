@@ -10,7 +10,7 @@ A simple web application for checking the strength of passwords based on criteri
 
 ## Demo
 
-Insert gif or link to demo
+https://deepak-kumar62.github.io/Password-Validation-Check/
 
 
 ## How to Use
